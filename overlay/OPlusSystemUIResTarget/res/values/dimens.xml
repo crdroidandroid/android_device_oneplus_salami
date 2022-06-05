@@ -29,4 +29,14 @@
     <!-- Microns/ums (1000 um = 1mm) per pixel for the given device. If unspecified, UI that
          relies on this value will not be sized correctly. -->
     <item name="pixel_pitch" format="float" type="dimen">48.3</item>
+
+    <!-- Alert Slider UI -->
+    <dimen name="tri_state_down_dialog_position">520px</dimen>
+    <dimen name="tri_state_down_dialog_position_l">270px</dimen>
+    <dimen name="tri_state_middle_dialog_position">320px</dimen>
+    <dimen name="tri_state_middle_dialog_position_l">@dimen/tri_state_down_dialog_position_l</dimen>
+    <dimen name="tri_state_up_dialog_position">120px</dimen>
+    <dimen name="tri_state_up_dialog_position_l">@dimen/tri_state_down_dialog_position_l</dimen>
+    <dimen name="tri_state_up_dialog_position_deep">21px</dimen>
+    <dimen name="tri_state_up_dialog_position_deep_land">@dimen/tri_state_up_dialog_position_deep</dimen>
 </resources>
