@@ -137,6 +137,9 @@ odm/etc/irissoft_samsung_AMB670YF07_FS_dsc_cmd_mode_panel.dat
 odm/etc/irissoft_samsung_AMB670YF07_FS_dsc_cmd_mode_panel.fw
 odm/etc/irissoft_samsung_AMB670YF07_FS_dsc_cmd_mode_panel.xml
 
+# Media
+odm/etc/media_profiles_V1_0.xml
+
 # Sensors config
 odm/etc/sensor/config/kailua_mtp_ak0991x.json
 odm/etc/sensor/config/kailua_mtp_alsps.json
