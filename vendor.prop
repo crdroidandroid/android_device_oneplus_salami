@@ -1,6 +1,12 @@
 # Bluetooth
 bluetooth.device.default_name=OnePlus 11 5G
 
+# Camera
+ro.vendor.oplus.camera.frontCamSize=16MP
+ro.vendor.oplus.camera.backCamSize=50MP+48MP+32MP
+ro.vendor.oplus.camera.isSupportExplorer=0
+ro.vendor.oplus.camera.isHasselbladCamera=0
+
 # Graphics
 ro.surface_flinger.set_idle_timer_ms=250
 ro.surface_flinger.set_touch_timer_ms=300
