@@ -5,5 +5,8 @@ bluetooth.device.default_name=OnePlus 11 5G
 ro.surface_flinger.set_idle_timer_ms=250
 ro.surface_flinger.set_touch_timer_ms=300
 
+# Market
+ro.vendor.oplus.market.name=OnePlus 11 5G
+
 # USB
 vendor.usb.product_string=OnePlus 11 5G
