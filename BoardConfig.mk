@@ -16,7 +16,7 @@ TARGET_OTA_ASSERT_DEVICE := OP591BL1,OP594DL1
 TARGET_SCREEN_DENSITY := 450
 
 # Kernel
-TARGET_KERNEL_CONFIG += vendor/oplus/salami.config
+TARGET_KERNEL_CONFIG := salami_defconfig
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
