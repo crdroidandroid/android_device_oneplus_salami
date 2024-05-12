@@ -258,7 +258,7 @@
     <ctl name="LPI PCM Logging Enable" value="0" />
 
     <!-- OPLUS_FEATURE_RINGTONE_HAPTIC Add for set haptics vmax value -->
-    <ctl name="Haptics Amplitude Step" value="165" />
+    <ctl name="Haptics Amplitude Step" value="155" />
     <!-- Codec controls end -->
 
     <!-- defaults for mmap record -->
