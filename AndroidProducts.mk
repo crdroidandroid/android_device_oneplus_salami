@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_salami.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_salami-user \
-    lineage_salami-userdebug \
-    lineage_salami-eng
