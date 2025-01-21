@@ -974,4 +974,16 @@
          fp screen off unlock-->
     <bool name="config_screen_off_udfps_default_on">false</bool>
 
+    <!-- Maximum screen brightness allowed by the power manager.
+    -2 is invalid so setting will resort to int value specified above.
+    Set this to 1.0 for maximum brightness range.
+    The user is forbidden from setting the brightness above this level. -->
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
+
+    <!-- Minimum screen brightness setting allowed by power manager.
+    -2 is invalid so setting will resort to int value specified above.
+    Set this to 0.0 to allow screen to go to minimal brightness.
+    The user is forbidden from setting the brightness below this level. -->
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.00199609</item>
+
 </resources>
