@@ -2,9 +2,9 @@
 ## are from OnePlus 11 (CPH2449_15.0.0.820(EX01)).
 
 # ACDB
-odm/etc/acdbdata/Audio_Parameter_Version.txt
 odm/etc/acdbdata/FTM/acdb_cal.acdb
 odm/etc/acdbdata/FTM/workspaceFileXml.qwsp
+odm/etc/acdbdata/Audio_Parameter_Version.txt
 odm/etc/acdbdata/acdb_cal.acdb
 
 # Audio configs
@@ -70,8 +70,6 @@ odm/etc/lvacfs_params/2mic/audiozoom_8.txt
 odm/etc/lvacfs_params/2mic/audiozoom_9.txt
 
 # Camera
-odm/etc/camera/CameraHWConfiguration.config
-odm/etc/camera/camera_engmode.xml
 odm/etc/camera/config/camera_third_party_feature_config.protobuf
 odm/etc/camera/config/camera_unit_config
 odm/etc/camera/config/camera_unit_feature_config.protobuf
@@ -89,6 +87,8 @@ odm/etc/camera/config/s5k3p9
 odm/etc/camera/config/s5kjn1sq03
 odm/etc/camera/config/sr_params.xml
 odm/etc/camera/config/video_beauty_default_config
+odm/etc/camera/CameraHWConfiguration.config
+odm/etc/camera/camera_engmode.xml
 odm/etc/camera/settings_fdc.txt
 odm/etc/camera/settings_fdc_lite.txt
 
