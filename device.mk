@@ -35,7 +35,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     FrameworksResEuicc_EU \
-    FrameworksResEuicc_IN \
     FrameworksResEuicc_NA \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
